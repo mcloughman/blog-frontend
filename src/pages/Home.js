@@ -14,7 +14,7 @@ const Home = () => {
             
             
             
-            const response = await fetch("https://hockey-blog.herokuapp.com//api/posts", {
+            const response = await fetch("https://hockey-blog.herokuapp.com/api/posts", {
                 // headers: {
                 //    'Authorization': `Bearer ${user.token}`     
                 // }
